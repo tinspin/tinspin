@@ -1,3 +1,4 @@
+Multiplayer Online Standard
 <img style="vertical-align: top;" src="https://raw.githubusercontent.com/tinspin/fuse/84bc0d889414579074588b0d57d8534cbb5871cb/res/svg/mos.svg">
 Uses&nbsp;the&nbsp;backend:
 
