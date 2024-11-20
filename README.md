@@ -1,4 +1,6 @@
-I'm coding "open" (source available with modify/resell license) action 2D or 3D editable MMO engines (1000s players per server) from scratch for linux/reduced + windows/complex:
+I'm coding "open" (source available with modify/resell license) 
+action 2D or 3D editable MMO engines (1000s players per server) 
+from scratch for linux/reduced + windows/complex:
 
 Multiplayer Online Standard  
 <a href="https://github.com/tinspin/fuse"><img style="vertical-align: top;" src="https://raw.githubusercontent.com/tinspin/fuse/84bc0d889414579074588b0d57d8534cbb5871cb/res/svg/mos.svg"></a>  
