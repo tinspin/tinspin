@@ -1,5 +1,5 @@
-I'm coding "open" (source available with modify/resell license) 
-action 2D or 3D editable MMO engines (1000s players per server) 
+I'm coding "open" (source available with modify/resell license)<br>
+action 2D or 3D editable MMO engines (1000s players per server)<br>
 from scratch for linux/reduced + windows/complex:
 
 Multiplayer Online Standard  
